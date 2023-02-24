@@ -22,6 +22,3 @@ export default async function Page() {
 
   return <main>{data}</main>;
 }
-
-
-//adding generateMetadata function will break loading.tsx 
